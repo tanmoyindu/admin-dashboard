@@ -1,8 +1,6 @@
 # Dashboard
 This is a responsive Admin Dashboard developed with HTML, CSS, and JavaScript. This project focuses on building a sleek and functional layout using CSS Grid, without relying on frameworks like Bootstrap.
-Charts were built using **ApexCharts 3**.
-
-![plot](https://github.com/BobsProgrammingAcademy/responsive-sales-dashboard/blob/master/images/large.png?raw=true)
+Charts were built using **ApexCharts 3**
 
 ## Requirements
 Install the following prerequisites:
